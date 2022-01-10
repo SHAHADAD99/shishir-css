@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.mainbox{
+	width: 500px;
+	height: 500px;
+	background: green;
+	display: flex;
+	margin: auto;
+
+
+}
+
+.box2{
+	width: 300px;
+	height: 300px;
+	background: red;
+	margin: auto;
+	border-radius: 50%;
+}

@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.mainbox1{
+	width: 500px;
+	height: 500px;
+	background: green;
+	float:left;
+}
+
+.mainbox2{
+	width: 300px;
+	height: 20px;
+	background: blue;
+	float: left;
+}
+
+.mainbox3{
+	width: 450px;
+	height: 200px;
+	background: red;
+	float: left;
+}
